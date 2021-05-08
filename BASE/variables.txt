@@ -1,0 +1,45 @@
+Variable	Description	Unit
+CASENAME	Field name	-
+Depth	depth	ft
+Area	field area	km2
+RESTHICK	reservoir gross thickness	ft
+PRESS	reservoir initial pressure	psia
+TEMP	reservoir temperature	F
+OILGRAV	Oil API	deg
+SOLGOR	Solution gas, Rs	scf/stb
+Visco	oil viscosity	cP
+Psat	saturation pressure	psia
+Bo	FVF	rb/stb
+FLUIDTYPE	fluid type	-
+WATSAL	water salinity	ppm
+Aquifer	Aquifer	-
+POROSITY	porosity	-
+NTG	net to gross ratio	-
+PERM	permeability	mD
+CONWATER	Initial water saturation	-
+PERM.AQUIFER	aquifer permeability	mD
+OOIP	Oil in Place	MMstb
+RF	RF current	%
+RFmax	Projected max RF	%
+Np	Current Cumulative Oil Production	MMstb
+Nw	Current Cumulative Water Production	MMstb
+Ng	Current Cumulative Gas Production	Bcf
+Nwi	Current Cumulative Water Injection	MMstb
+GOR	Producing GOR	scf/stb
+SWx	Current estimated water saturation	-
+RELPERM.RESSAT.Kro	Sor	-
+RELPERM.ENDPOINT.Kro	kro @ swirr	-
+RELPERM.ENDPOINT.Krw	krw @ Sor	-
+RELPERM.EXPON.Kro	Oil relative permeability Corey Exponent	-
+RELPERM.EXPON.Krw	Water relative permeability Corey Exponent	-
+PROD.PI	Average productivity index	stbd/psi
+WINJ.PI	Average injectivity index	stbd/psi
+PROD_TIME	Current production time	years
+Field.OILRATE	Max Oil rate	stbd
+Field.WATRATE	Max Water rate	stbd
+Field.GASRATE	Max Gas Rate	MMscf
+Field.INJWATRATE	Max Water injection rate	stbd
+Field.INJGASRATE	Mas gas Injection rate	MMscf
+NumPROD	number of producer wells	-
+NumWINJ	number of injectors wells	-
+BODP_well	average BOPD / well	stbd
